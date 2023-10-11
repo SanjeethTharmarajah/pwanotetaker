@@ -77,4 +77,6 @@ The following image shows the application's IndexedDB storage:
 
 ![idb](https://user-images.githubusercontent.com/107900180/206567448-c4d0939a-4690-4b40-a597-476b1e1c0c19.png)
 
+J.A.T.E can be seen in action in heroku in the following link
 
+https://pwanotetaker-eeaf4f9c82ab.herokuapp.com/
